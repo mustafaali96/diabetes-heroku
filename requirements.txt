@@ -2,4 +2,3 @@ streamlit
 pandas
 sklearn
 matplotlib
-pickle
